@@ -1,6 +1,6 @@
 # nvim-config
 
-Use the lazyvim plugin and modify some configuration
+Use the (LazyVim)[https://github.com/LazyVim/LazyVim] plugin and modify some configuration
 
 Clone configuration files:
 ```sh
